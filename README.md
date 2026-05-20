@@ -4,10 +4,6 @@
   <b>📱 SDE Intern @ BOSC Tech Labs &nbsp;·&nbsp; Flutter Developer &nbsp;·&nbsp; AI/ML Enthusiast</b>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoRKslHVtqjXVQ73cl/giphy.gif" width="220" />
-</p>
-
 I'm a software developer currently working as an **SDE Intern building production Flutter mobile apps**, while passionately self-learning AI/ML on the side. My goal is to transition into AI engineering — combining my software development foundation with the AI skills I'm actively building every day.
 
 - 🎓 **M.Sc. Information Technology** — GLS University, Ahmedabad *(2024 – Present)*
