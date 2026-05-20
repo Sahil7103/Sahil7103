@@ -1,45 +1,44 @@
 <h1 align="center">Hey there! 👋 I'm Sahil Koshti</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Generative+AI+%7C+LLM+Applications;Backend+Developer+%7C+Django+%7C+FastAPI;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=650&lines=SDE+Intern+%7C+Flutter+Mobile+Developer;AI%2FML+Enthusiast+%7C+Self-Learning+AI;Building+Apps+Today%2C+Building+AI+Tomorrow+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<img align="right" alt="AI Coding" src="https://media.giphy.com/media/SWoRKslHVtqjXVQ73cl/giphy.gif" width="240" />
+<img align="right" alt="Coding" src="https://media.giphy.com/media/SWoRKslHVtqjXVQ73cl/giphy.gif" width="240" />
 
-### 🤖 AI/ML Engineer · Generative AI · LLM Applications · NLP
+### 📱 SDE Intern @ BOSC Tech Labs · Flutter Developer · AI/ML Enthusiast
 
-I'm an AI/ML enthusiast with hands-on experience building **production-grade Generative AI and NLP systems**. I love turning complex AI research into real, working products — from LLM-powered assistants to intelligent ML pipelines.
+I'm a software developer currently working as an **SDE Intern building production Flutter mobile apps**, while passionately self-learning AI/ML on the side. My goal is to transition into AI engineering — combining my software development foundation with the AI skills I'm actively building every day.
 
 - 🎓 **M.Sc. Information Technology** — GLS University, Ahmedabad *(2024 – Present)*
 - 🎓 **B.Sc. Information Technology** — GLS University | CGPA: 8.06/10 *(2021 – 2024)*
-- 💼 **Software Developer Intern** — BOSC Tech Labs Pvt. Ltd., Gandhinagar *(Dec 2025 – Present)*
+- 💼 **SDE Intern** — BOSC Tech Labs Pvt. Ltd., Gandhinagar *(Dec 2025 – Present)*
 - 📍 **Location:** Ahmedabad, Gujarat, India 🇮🇳
-- 💡 **Currently exploring:** Advanced RAG, LLM fine-tuning, Agentic AI
+- 🤖 **Goal:** Break into AI/ML Engineering — self-learning every day
 - 📧 **Contact:** sahilkoshti1354@gmail.com
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🤖 LLM & Generative AI
+### 📱 Mobile Development *(Current Work)*
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+
+### 🤖 AI / ML *(Self-Learning — Actively Building)*
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LLaMA-3](https://img.shields.io/badge/LLaMA--3-FF6B35?style=for-the-badge&logo=meta&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![RAG](https://img.shields.io/badge/RAG-005571?style=for-the-badge&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge&logoColor=white)
-
-### 🧠 Machine Learning & NLP
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP_Pipelines-009688?style=for-the-badge&logoColor=white)
-![TF-IDF](https://img.shields.io/badge/TF--IDF-FF6F00?style=for-the-badge&logoColor=white)
-![SVM](https://img.shields.io/badge/SVM-0277BD?style=for-the-badge&logoColor=white)
-![Naive Bayes](https://img.shields.io/badge/Naive_Bayes-7B1FA2?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-005571?style=for-the-badge&logoColor=white)
 
-### 🔧 Backend & APIs
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 🔧 Backend & Other Languages
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
@@ -62,7 +61,25 @@ I'm an AI/ML enthusiast with hands-on experience building **production-grade Gen
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Experience
+
+### SDE Intern — BOSC Tech Labs Pvt. Ltd. *(Dec 2025 – Present)*
+> Gandhinagar, Gujarat | Product-Based Company
+
+Working as a Flutter developer on **ColorFill** — a production cross-platform mobile coloring & sketching app (iOS & Android).
+
+- 🎨 Built and maintained **feature modules** including an Explore screen (category browsing + search), Gallery, Favorites, Statistics dashboard, and user Profile — each following a clean **feature-first architecture** with GetX state management
+- 🖌️ Developed a **custom pixel paint engine** with brush, fill, and undo controllers for real-time coloring interactions on canvas
+- 🎬 Engineered a **timelapse recording & video export system** — capturing paint strokes frame-by-frame and exporting them as shareable videos (platform-aware: iOS, Android, and Web)
+- 💳 Integrated **RevenueCat** for in-app subscription management (free/pro entitlements), including paywall UI, purchase flows, restore purchases, and Crashlytics error reporting
+- 🔔 Set up **Firebase** integrations — Analytics event tracking, Remote Config for feature flags, and Crashlytics for production crash monitoring
+- 📡 Built a clean **Dio-based API client** with request/response logging interceptors and a structured REST service layer (repositories → services → controllers)
+- 🧩 Implemented reusable **shared widget library** — skeleton loaders, image cards, dialogs, color pickers, mascot popups, and premium overlays — maintaining UI consistency across all screens
+- ⚙️ Followed **agile development practices**, participated in code reviews, and worked alongside senior engineers on a production-grade codebase
+
+---
+
+## 🚀 AI/ML Projects *(Self-Built — Passion for AI)*
 
 ### 1️⃣ AI Resume & Career Assistant *(GenAI · Full Stack)*
 
@@ -72,9 +89,8 @@ I'm an AI/ML enthusiast with hands-on experience building **production-grade Gen
 ![RAG](https://img.shields.io/badge/RAG-005571?style=flat)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-A production-grade AI platform that analyses resumes, scores ATS compatibility, detects skill gaps, and holds document-grounded conversations — cutting manual review effort by ~80%.
+A production-grade AI platform that analyses resumes, scores ATS compatibility, detects skill gaps, and holds document-grounded conversations — reducing manual review effort by ~80%.
 
 - 🧠 LLaMA-3 (8B Instruct) with RAG for hallucination-free, document-grounded responses
 - 💬 Persistent session memory for multi-turn conversational AI
@@ -90,7 +106,6 @@ A production-grade AI platform that analyses resumes, scores ATS compatibility, 
 ![Naive Bayes](https://img.shields.io/badge/Naive_Bayes-7B1FA2?style=flat)
 ![SVM](https://img.shields.io/badge/SVM-0277BD?style=flat)
 ![TF-IDF](https://img.shields.io/badge/TF--IDF-FF6F00?style=flat)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 Intelligent expense platform with automated ML-driven transaction classification across 10+ spending categories — eliminating 100% of manual categorization.
@@ -98,7 +113,6 @@ Intelligent expense platform with automated ML-driven transaction classification
 - 🏷️ Naive Bayes & SVM classifiers with TF-IDF vectorization for NLP-based categorization
 - 📈 Linear Regression forecasting model for future spending predictions
 - 📊 Auto-updating live dashboard with real-time ML classification
-- 🔁 End-to-end ML product: raw data → deployed interactive insights
 
 ---
 
@@ -106,11 +120,9 @@ Intelligent expense platform with automated ML-driven transaction classification
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_GPT-412991?style=flat&logo=openai&logoColor=white)
-![SpeechRecognition](https://img.shields.io/badge/SpeechRecognition-00897B?style=flat)
 ![NLP](https://img.shields.io/badge/NLP_Pipeline-009688?style=flat)
-![Wikipedia API](https://img.shields.io/badge/Wikipedia_API-000000?style=flat&logo=wikipedia&logoColor=white)
 
-An end-to-end voice assistant combining real-time speech recognition with OpenAI GPT for natural language understanding and human-like responses.
+An end-to-end voice assistant combining real-time SpeechRecognition with OpenAI GPT for natural language understanding and human-like responses.
 
 - 🎙️ Real-time SpeechRecognition + GPT for natural language understanding
 - 🧩 Modular NLP pipeline for intent classification and task automation
@@ -118,32 +130,22 @@ An end-to-end voice assistant combining real-time speech recognition with OpenAI
 
 ---
 
-### 4️⃣ Student Portal *(Java · Web)*
+### 4️⃣ Student Portal *(Java · Web — Early Project)*
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34C26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-Web-based student record management system with CRUD operations, login/signup with session validation, and SQL database integration via JDBC.
+Web-based student record management with CRUD operations, login/signup session validation, and SQL database integration via JDBC.
 
 ---
 
-## 💼 Experience
+## 🌱 Currently Learning *(On the path to AI Engineering)*
 
-**Software Developer Intern — BOSC Tech Labs Pvt. Ltd.** *(Dec 2025 – Present)*
-- Backend REST API development in a professional product-based software environment
-- Agile workflows, code reviews, and collaborative version control with Git
-- Exposure to production-grade codebases alongside senior engineers
-
----
-
-## 🌱 Currently Learning & Exploring
-
-- 🤖 LLM fine-tuning & parameter-efficient training (LoRA, QLoRA)
+- 🤖 LLM fine-tuning — LoRA, QLoRA, PEFT
 - 🔍 Advanced RAG — re-ranking, hybrid search, multi-hop reasoning
-- 🕵️ Agentic AI — tool-calling agents, LangChain, LlamaIndex
-- ☁️ Cloud deployment (AWS / Azure) for AI applications
+- 🕵️ Agentic AI — LangChain, LlamaIndex, tool-calling agents
+- ☁️ Cloud deployment for AI apps (AWS / Azure basics)
 - 🐳 Docker & MLOps fundamentals
 
 ---
@@ -162,6 +164,6 @@ Web-based student record management system with CRUD operations, login/signup wi
 
 <div align="center">
 
-*Passionate about AI/ML · Open to AI Engineer & ML Engineer roles · Let's build something intelligent together* 🚀
+*Currently: SDE Intern building Flutter apps · Aspiring: AI/ML Engineer · Always: Learning & building* 🚀
 
 </div>
