@@ -1,12 +1,12 @@
 <h1 align="center">Hey there! 👋 I'm Sahil Koshti</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=650&lines=SDE+Intern+%7C+Flutter+Mobile+Developer;AI%2FML+Enthusiast+%7C+Self-Learning+AI;Building+Apps+Today%2C+Building+AI+Tomorrow+%F0%9F%9A%80" alt="Typing SVG" />
+  <b>📱 SDE Intern @ BOSC Tech Labs &nbsp;·&nbsp; Flutter Developer &nbsp;·&nbsp; AI/ML Enthusiast</b>
 </p>
 
-<img align="right" alt="Coding" src="https://media.giphy.com/media/SWoRKslHVtqjXVQ73cl/giphy.gif" width="240" />
-
-### 📱 SDE Intern @ BOSC Tech Labs · Flutter Developer · AI/ML Enthusiast
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoRKslHVtqjXVQ73cl/giphy.gif" width="220" />
+</p>
 
 I'm a software developer currently working as an **SDE Intern building production Flutter mobile apps**, while passionately self-learning AI/ML on the side. My goal is to transition into AI engineering — combining my software development foundation with the AI skills I'm actively building every day.
 
@@ -52,19 +52,6 @@ I'm a software developer currently working as an **SDE Intern building productio
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sahil7103&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil7103&layout=compact&theme=tokyonight&langs_count=6&cache_seconds=1800" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sahil7103&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</div>
-
----
-
 ## 💼 Experience
 
 ### SDE Intern — BOSC Tech Labs Pvt. Ltd. *(Dec 2025 – Present)*
@@ -72,14 +59,14 @@ I'm a software developer currently working as an **SDE Intern building productio
 
 Working as a Flutter developer on **ColorFill** — a production cross-platform mobile coloring & sketching app (iOS & Android).
 
-- 🎨 Built and maintained **feature modules** including an Explore screen (category browsing + search), Gallery, Favorites, Statistics dashboard, and user Profile — each following a clean **feature-first architecture** with GetX state management
+- 🎨 Built and maintained **feature modules** including Explore, Gallery, Favorites, Statistics dashboard, and user Profile — each following a clean **feature-first architecture** with GetX state management
 - 🖌️ Developed a **custom pixel paint engine** with brush, fill, and undo controllers for real-time coloring interactions on canvas
-- 🎬 Engineered a **timelapse recording & video export system** — capturing paint strokes frame-by-frame and exporting them as shareable videos (platform-aware: iOS, Android, and Web)
-- 💳 Integrated **RevenueCat** for in-app subscription management (free/pro entitlements), including paywall UI, purchase flows, restore purchases, and Crashlytics error reporting
+- 🎬 Engineered a **timelapse recording & video export system** — capturing paint strokes frame-by-frame and exporting as shareable videos (platform-aware: iOS, Android, Web)
+- 💳 Integrated **RevenueCat** for in-app subscription management — paywall UI, purchase flows, restore purchases, and Crashlytics error reporting
 - 🔔 Set up **Firebase** integrations — Analytics event tracking, Remote Config for feature flags, and Crashlytics for production crash monitoring
-- 📡 Built a clean **Dio-based API client** with request/response logging interceptors and a structured REST service layer (repositories → services → controllers)
-- 🧩 Implemented reusable **shared widget library** — skeleton loaders, image cards, dialogs, color pickers, mascot popups, and premium overlays — maintaining UI consistency across all screens
-- ⚙️ Followed **agile development practices**, participated in code reviews, and worked alongside senior engineers on a production-grade codebase
+- 📡 Built a clean **Dio-based API client** with request/response logging interceptors and structured REST service layer (repositories → services → controllers)
+- 🧩 Built a reusable **shared widget library** — skeleton loaders, image cards, dialogs, color pickers, mascot popups, and premium overlays
+- ⚙️ Followed **agile practices**, participated in code reviews, and collaborated with senior engineers on a production-grade codebase
 
 ---
 
