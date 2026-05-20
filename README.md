@@ -55,8 +55,12 @@ I'm a software developer currently working as an **SDE Intern building productio
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sahil7103&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil7103&layout=compact&theme=tokyonight&langs_count=6" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sahil7103&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil7103&layout=compact&theme=tokyonight&langs_count=6&cache_seconds=1800" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Sahil7103&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
